@@ -1,0 +1,6 @@
+{
+  "name": "xlswriter",
+  "class": "ni.danny.datax.plugin.writer.xlswriter.XlsWriter",
+  "description": "",
+  "developer": "ni.danny"
+}

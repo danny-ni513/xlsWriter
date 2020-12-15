@@ -1,0 +1,11 @@
+{
+  "name": "xlswriter",
+  "parameter": {
+    "path": "",
+    "fileName": "",
+    "fileType": "xls/xlsx",
+    "writeMode": "",
+    "fields":[""],
+    "dateFormat": ""
+  }
+}
